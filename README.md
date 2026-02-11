@@ -1,4 +1,3 @@
-📄 README.md
 # 🛒 Admin Penjualan Elektronik
 Sistem Admin Penjualan Elektronik berbasis Web menggunakan **CodeIgniter 4** dengan tampilan modern menggunakan **Tailwind CSS**.
 
