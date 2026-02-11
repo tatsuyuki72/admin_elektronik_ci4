@@ -175,5 +175,7 @@ Ilham Firmansyah
 
 ---
 
-This project is built using CodeIgniter 4 (MIT License).
-Custom business logic and UI are developed by Ilham Firmansyah.
+## 📜 License
+
+This project utilizes CodeIgniter 4 (MIT License).  
+All custom business logic and UI implementation are developed by Ilham Firmansyah.
