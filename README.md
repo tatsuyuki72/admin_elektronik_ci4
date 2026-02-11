@@ -172,3 +172,8 @@ Portfolio project pengembangan web
 👨‍💻 Author
 
 Ilham Firmansyah
+
+---
+
+This project is built using CodeIgniter 4 (MIT License).
+Custom business logic and UI are developed by Ilham Firmansyah.
