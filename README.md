@@ -177,5 +177,5 @@ Ilham Firmansyah
 
 ## 📜 License
 
-This project utilizes CodeIgniter 4 (MIT License).  
-All custom business logic and UI implementation are developed by Ilham Firmansyah.
+This project utilizes CodeIgniter 4, which is distributed under the MIT License.  
+All custom business logic and user interface implementation are developed by Ilham Firmansyah.
